@@ -1,0 +1,14 @@
+Core Features
+
+Option to instabreak floor blocks
+Multiple Floors
+Kill region
+Standard lobby and arena setup
+Dealing with saving player states before the game and restoring them after the game completes (A whole class for this would be good)
+Having a seperate arena chat (Hook into LapisChat for this as an extra cross promotion thing)
+Make sure the players dont get hungry or hurt while in the arena
+Stop mobs spawning in the areana so that arena creators dont have to worry about that
+
+Extra fun stuff I might do
+
+Particles on block break and player fall/death
