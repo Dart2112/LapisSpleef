@@ -1,8 +1,8 @@
 package net.lapismc.lapisspleef;
 
-import org.bukkit.plugin.java.JavaPlugin;
+import net.lapismc.lapiscore.LapisCorePlugin;
 
-public final class LapisSpleef extends JavaPlugin {
+public final class LapisSpleef extends LapisCorePlugin {
 
     @Override
     public void onEnable() {
