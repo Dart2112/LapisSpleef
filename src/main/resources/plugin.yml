@@ -1,0 +1,5 @@
+name: LapisSpleef
+version: ${project.version}
+main: net.lapismc.lapisspleef.LapisSpleef
+api-version: 1.13
+authors: [Dart2112]
